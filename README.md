@@ -1,2 +1,2 @@
 # Linden
-Build an API in Rust with JWT Authentication
+Build an API in Rust/Actix Web with JWT Authentication
